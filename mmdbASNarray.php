@@ -112,8 +112,7 @@ $mmdb_ASN_array = [
 "informacines sistemos ir technologijos",
 "glesys ab",
 "bwi gmbh",
-// "Telefonica", // TESTPOINT
-"last entry without trailing comma"
+"last entry without trailing comma" // only the last entry
 ];
 
 ?>
