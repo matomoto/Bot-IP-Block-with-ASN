@@ -4,6 +4,7 @@ Bot IP Blocker with ASN via MMDB and PHP maxmind-db/reader.
 ## Install the maxmind-db/reader with composer
 
 Open a SSH terminal on the server.
+(works also on webhosting only)
 
 // check version
 ```
