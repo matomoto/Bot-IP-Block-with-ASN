@@ -59,8 +59,11 @@ It must be a mmdb database file with the MaxMind database structure like:
 ["autonomous_system_number"] => 15169
 ["autonomous_system_organization"] => "Google LLC"
 ```
+MaxMind has such databases: <a href='https://www.maxmind.com/'>IP Geolocation by MaxMind</a>
 
-download: https://db-ip.com/db/download/ip-to-asn-lite
+DB-IP has such databases: <a href='https://db-ip.com'>IP Geolocation by DB-IP</a>
+
+Example (DB-IP): <a href='https://db-ip.com/db/download/ip-to-asn-lite'>IP to ASN Lite Database</a>
 
 Save it in the folder `path-to-your/public/mmdbbotblock/database/`
 
