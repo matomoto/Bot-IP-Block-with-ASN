@@ -68,7 +68,7 @@ gunzip dbip-asn-lite-2026-07.mmdb.gz
 ```
 
 ## Use it in your website
-Put the PHP code on the top of your website.
+Put the PHP code on the top of your website.    
 (above headers and above `<!DOCTYPE html>`)
 ```
 <?php
