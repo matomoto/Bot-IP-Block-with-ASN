@@ -73,7 +73,7 @@ Put the PHP code on the top of your website.
 ```
 <?php
 // MMDB IP to ASN Blocker
-include '/path-to-your/mmdbbotblock/mmdbASNreader.php';
+include __DIR__ . '/../mmdbbotblock/mmdbASNreader.php';
 ?>
 ```
 
