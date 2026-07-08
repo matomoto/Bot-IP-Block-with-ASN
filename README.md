@@ -54,6 +54,12 @@ It works also with substrings.
 
 ## DP-IP IP to ASN Lite database
 
+It must be a mmdb database file with the MaxMind database structure like:
+```
+["autonomous_system_number"] => 15169
+["autonomous_system_organization"] => "Google LLC"
+```
+
 download: https://db-ip.com/db/download/ip-to-asn-lite
 
 Save it in the folder `path-to-your/public/mmdbbotblock/database/`
